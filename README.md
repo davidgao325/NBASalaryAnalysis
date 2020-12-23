@@ -1,7 +1,10 @@
 # NBASalaryAnalysis
-* merged_data_set_2.csv Dataset with all the stats*
+```
+* _merged_data_set_2.csv Dataset with all the stats*
 * cleanedup_data.csv Cleaned up dataset with all the stats*
 * nba_eda.csv Data from the analysis*
+```
+
 
 
 This project will analyze NBA players' salaries based on their performance in the 2019-2020 NBA regular season. The project will compare their performace to their salary.
