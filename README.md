@@ -1,8 +1,8 @@
 # NBASalaryAnalysis
 ```
-merged_data_set_2.csv Dataset with all the stats
-cleanedup_data.csv Cleaned up dataset with all the stats
-nba_eda.csv Data from the analysis
+merged_data_set_2.csv -Dataset with all the stats
+cleanedup_data.csv -Cleaned up dataset with all the stats
+nba_eda.csv -Data from the analysis
 ```
 
 
