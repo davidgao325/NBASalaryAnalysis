@@ -14,8 +14,8 @@ from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
 
-# Get the stats that are bes suited for the model
-# Create dummy variables for testind
+# Get the stats that are best suited for the model
+# Create dummy variables for testing
 # Create training and testing data
 # Use measurement metrics to evalaute the regression models
 
